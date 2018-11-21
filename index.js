@@ -18,6 +18,6 @@ function logWhisper(string) {
   console.log("hello")
 }
 
-function sayHitoGrandma(STRING) {
+function sayHitoGrandma(string.toUpperCase) {
   return ("YES INDEED")
 }
