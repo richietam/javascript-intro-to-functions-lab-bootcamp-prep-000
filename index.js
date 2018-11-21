@@ -3,7 +3,7 @@ function shout(string) {
 }
 
 function whipser (string) {
-  return string.toLowerCase
+  return string.toLowerCase()
 }
 
 
